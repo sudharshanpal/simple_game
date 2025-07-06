@@ -22,5 +22,7 @@ git clone https://github.com/sudharshanpal/simple_game.git
 cd simple_game.git
 python3 server.py
 ```
-### Open your browser and go to:
+### 2. Open your browser and go to:
 http://localhost:8000
+
+### 3. 👻💰 Have Fun!
